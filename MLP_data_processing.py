@@ -19,8 +19,7 @@ Designed to run locally; Google Collab did not offered enough RAM for our datase
 The training part, will be run on Collab in order to USE the T4 GPU for more computational power. 
 
 If this code is to be used, the path pointing to the base files must be updated. 
-You'll find all relevant files on my Github: https://github.com/EricLbr?tab=repositories
-
+The files are available upon request: eric.lambure.23@neoma-bs.com
 ================================================================================
 """
 #%% CELL 1 — SETUP
