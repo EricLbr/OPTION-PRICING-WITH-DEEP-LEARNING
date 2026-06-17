@@ -41,7 +41,7 @@ from torch.utils.data import DataLoader, TensorDataset
 from sklearn.preprocessing import StandardScaler
 
 
-BASE_PATH        = 'C:/Users/ericl/OneDrive/Bureau/ECOLE/Cours/M2/Thesis/Data/'
+BASE_PATH        = 'C:/Users/Data/'
 EQUITY_FILE      = os.path.join(BASE_PATH, 'Equity/equity_daily.parquet')
 RF_FILE          = os.path.join(BASE_PATH, 'Rates/risk_free_rates.parquet')
 SKEW_FILE        = os.path.join(BASE_PATH, 'Skew/SKEW.parquet')
