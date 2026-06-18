@@ -40,7 +40,7 @@ import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
 
-DEFAULT_BASE_PATH = "C:/Users/ericl/OneDrive/Bureau/ECOLE/Cours/M2/Thesis/Data"
+DEFAULT_BASE_PATH = "C:/Users/XXX/Data"
 MODELS_SUBDIR        = "Results"
 DATA_SPLITS_SUBPATH  = os.path.join("models", "processed_data_splits.joblib")
 SCALER_CACHE_NAME    = "scalers_cache.joblib"
